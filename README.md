@@ -104,6 +104,6 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
   
   ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=F85D7F&style=for-the-badge)
   
-  ⭐️ From [yourusername](https://github.com/yourusername)
+  ⭐️ From [jrmmllrs](https://github.com/yourusername)
 
 </div>
