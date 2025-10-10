@@ -1,6 +1,6 @@
 <!-- Premium GitHub Profile README by ChatGPT for Jerome Millares -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Jerome%20Millares%20👋&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Tech%20Explorer%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Jerome%20Millares%20&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Tech%20Explorer%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50)
 
 <div align="center">
 
