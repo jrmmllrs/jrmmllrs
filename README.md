@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmillares0945@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=667eea&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=jrmmllrs&color=667eea&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -87,11 +87,11 @@ const Jerome = {
 
 <div align="center">
   
-![Jerome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9)
+![Jerome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrmmllrs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=764ba2)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrmmllrs&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=764ba2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmmllrs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9)
 
 </div>
 
@@ -101,7 +101,7 @@ const Jerome = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=jrmmllrs&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -111,7 +111,7 @@ const Jerome = {
 
 <div align="center">
 
-[![Jerome's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jerome's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jrmmllrs&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -131,8 +131,8 @@ const Jerome = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2)](https://github.com/yourusername/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2)](https://github.com/yourusername/project2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jrmmllrs&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2)](https://github.com/jrmmllrs/project1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jrmmllrs&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2)](https://github.com/jrmmllrs/project2)
 
 </div>
 
@@ -195,7 +195,7 @@ I'm always excited to collaborate on interesting projects or discuss tech over c
 
 ---
 
-**⭐️ From [Jerome Millares](https://github.com/yourusername) | Built with ❤️ and lots of ☕**
+**⭐️ From [Jerome Millares](https://github.com/jrmmllrs) | Built with ❤️ and lots of ☕**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
 
