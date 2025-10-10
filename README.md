@@ -189,10 +189,6 @@ I'm always excited to collaborate on interesting projects or discuss tech over c
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Currently Vibing To
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=667eea&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
 ---
 
 **⭐️ From [Jerome Millares](https://github.com/jrmmllrs) | Built with ❤️ and lots of ☕**
