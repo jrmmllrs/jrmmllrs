@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Jerome Millares
+# Jerome Millares
+**Software Engineer**
 
-**Software Engineer** passionate about building modern web applications and finding better ways to solve problems through code.
+Passionate about building modern web applications and finding better ways to solve problems through code.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Software Engineering Intern currently working with React.js and Node.js, focusing on building and improving modern web applications. I developed my skills in Python, Flutter, PHP, Laravel, and Tailwind CSS while studying at Pangasinan State University, where I learned the foundations of software development and how to turn ideas into working solutions.
 
@@ -12,15 +13,15 @@ I'm continuously improving my coding practices and exploring new technologies to
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### **Frontend**
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Backend**
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -28,41 +29,45 @@ I'm continuously improving my coding practices and exploring new technologies to
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### **DevOps & Cloud**
+### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 💼 Experience
+## Professional Experience
 
-| Role | Company | Year |
-|------|---------|------|
+| Role | Organization | Year |
+|------|--------------|------|
 | Software Engineer Intern | FullSuite | 2025 |
 | Thesis Assistant Programmer | Pangasinan State University | 2024 |
 | BS Information Technology | Pangasinan State University | 2020 |
-| Hello World! | Wrote my first line of code | 2019 |
+| First Line of Code | Hello World! | 2019 |
 
 ---
 
-## 🎯 Projects
+## Featured Projects
 
 ### [CafeNova](https://coffee-shop-frontend.vercel.app)
-**Coffee Shop POS System** - A comprehensive point-of-sale system for coffee shops
+**Point-of-Sale System for Coffee Shops**
+- Comprehensive solution designed to streamline operations and enhance customer service in coffee shop environments
 
 ### [Dental Booking System](https://diego-dental.vercel.app)
-**Dental appointment system** - Streamlined booking platform for dental clinics
+**Appointment Management Platform**
+- Streamlined scheduling and booking system built specifically for dental clinic workflows
 
 ### [SuiteLifer](https://suitelifer.com)
-Collaborated on this project's development
+**Collaborative Development Project**
+- Contributed to the development and implementation of key features
 
 ### [Application Tracking System](https://ats.kriyahr.com)
-Collaborated on this project's improvement
+**Recruitment Management Solution**
+- Collaborated on improving functionality and user experience for HR recruitment processes
 
 ---
 
-## 📜 Certifications
+## Professional Certifications
 
 - **React Basics** - Meta / Coursera
 - **Introduction to Web Accessibility** - Google
@@ -71,19 +76,19 @@ Collaborated on this project's improvement
 
 ---
 
-## 🗣️ Testimonials
+## Testimonials
 
 > "He's the kind of developer who doesn't just code — he finds better ways to build things. Reliable, curious, and always improving."
-> 
+>
 > **Jun Jun Zaragosa** - Software Engineer Lead at FullSuite
 
 > "Working with him was a game-changer for our project. His attention to detail and problem-solving skills are exceptional."
-> 
+>
 > **Angel Hamelton Yacapin** - Software Engineer at FullSuite
 
 ---
 
-## 📫 Let's Connect
+## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmillares0945@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jrmmllrs)
@@ -93,12 +98,11 @@ Collaborated on this project's improvement
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 ![Jerome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrmmllrs&show_icons=true&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmmllrs&layout=compact&theme=default)
 
 ---
 
-⭐ *From [jrmmllrs](https://github.com/jrmmllrs)*
+From [jrmmllrs](https://github.com/jrmmllrs)
