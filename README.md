@@ -65,7 +65,7 @@ I'm continuously improving my coding practices and exploring new technologies to
 **Recruitment Management Solution**
 - Collaborated on improving functionality and user experience for HR recruitment processes
 
-### [TsekSuite]([https://ats.kriyahr.com](https://fullsuite.tseksuite.com/))
+### [TsekSuite](https://fullsuite.tseksuite.com/)
 **Quiz/Test Platform**
 - For Applicants and Employees
 
