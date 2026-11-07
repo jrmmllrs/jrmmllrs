@@ -1,7 +1,7 @@
 # Jerome Millares
 **Software Engineer**
 
-Passionate about building modern web applications and finding better ways to solve problems through code.
+Passionate about building modern web applications and finding better ways to solve problems through code. Now I am focusing on Generative AI.
 
 ---
 
