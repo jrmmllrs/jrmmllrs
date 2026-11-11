@@ -1,5 +1,5 @@
 # Jerome Millares
-**Software Engineer**
+**Software Engineer Intern**
 
 Passionate about building modern web applications and finding better ways to solve problems through code. Now I am focused on Generative AI.
 
